@@ -1,4 +1,4 @@
-# Hello, I'm [Harry] 👋
+# Hello, I'm Harry 👋
 
 ## 🚀 About Me
 
