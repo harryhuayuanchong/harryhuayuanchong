@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 
-I'm a DevRel Manager at ZeroBase, specializing in Zero-Knowledge Proofs (ZKP). With a Ph.D. in EECS focused on ZKP and Satellite Communication, I bring a unique blend of academic expertise and practical experience to the blockchain and crypto space.
+I'm a DevRel Manager at ZEROBASE, specializing in Zero-Knowledge Proofs (ZKP). With a Ph.D. in EECS focused on ZKP, I bring a unique blend of academic expertise and practical experience to the blockchain and crypto space.
 
 ### 🔭 Current Role
-- DevRel Manager at ZeroBase
+- DevRel Manager at ZEROBASE
 - Focus: Zero-Knowledge Proofs (ZKP)
 
 ### 🎓 Education
