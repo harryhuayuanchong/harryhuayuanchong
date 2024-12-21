@@ -2,17 +2,18 @@
 
 ## 🚀 About Me
 
-I'm a DevRel Manager at ZEROBASE, specializing in Zero-Knowledge Proofs (ZKP). With a Ph.D. in EECS focused on ZKP, I bring a unique blend of academic expertise and practical experience to the blockchain and crypto space.
+I'm the Founder of Meowster, specializing in Zero-Knowledge Proofs (ZKP). With a Ph.D. in EECS focused on ZKP, I bring a unique blend of academic expertise and practical experience to the blockchain and crypto space.
 
 ### 🔭 Current Role
-- DevRel Manager at ZEROBASE
-- Focus: Zero-Knowledge Proofs (ZKP)
+- Founder & CEO at Meowster
+- Focus: TwitterFi
 
 ### 🎓 Education
 - Ph.D. in Electrical Engineering and Computer Science (EECS)
 - Research areas: Zero-Knowledge Proofs and Satellite Communication
 
 ### 💼 Previous Experience
+- DevRel Manager at ZEROBASE
 - Software Engineer @ Huobi Global
 - Software Engineer @ Poloniex
 
