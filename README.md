@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm the Founder of Meowster, specializing in Zero-Knowledge Proofs (ZKP). With a Ph.D. in EECS focused on ZKP, I bring a unique blend of academic expertise and practical experience to the blockchain and crypto space.
+I'm the co-founder & CEO of Meowster, specializing in Zero-Knowledge Proofs (ZKP). With a Ph.D. in EECS focused on ZKP, I bring a unique blend of academic expertise and practical experience to the blockchain and crypto space.
 
 ### 🔭 Current Role
 - Founder & CEO at Meowster
