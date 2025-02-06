@@ -6,7 +6,7 @@ I'm the co-founder & CEO of Meowster, specializing in Zero-Knowledge Proofs (ZKP
 
 ### 🔭 Current Role
 - Founder & CEO at Meowster
-- Focus: TwitterFi
+- Focus: Onchange Exchange & Social Media Analysis
 
 ### 🎓 Education
 - Ph.D. in Electrical Engineering and Computer Science (EECS)
