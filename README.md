@@ -5,12 +5,12 @@
 I'm the co-founder & CEO of MeowX, specializing in Zero-Knowledge Proofs (ZKP). With a Ph.D. in EECS focused on ZKP, I bring a unique blend of academic expertise and practical experience to the blockchain and crypto space.
 
 ### 🔭 Current Role
-- Founder & CEO at MeowX
-- Focus: Onchain Exchange & Social Media Analysis
+- Founder & CEO at AnyEx
+- Focus: Onchain Exchange & Social Analysis
 
 ### 🎓 Education
 - Ph.D. in Electrical Engineering and Computer Science (EECS)
-- Research areas: Zero-Knowledge Proofs and Social Media Analytics
+- Research areas: Zero-Knowledge Proofs and Social Analytics
 ### 💼 Previous Experience
 - DevRel Manager at ZEROBASE
 - Software Engineer @ Huobi Global
